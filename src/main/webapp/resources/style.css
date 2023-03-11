@@ -1,0 +1,140 @@
+.logo {
+  height: 8rem;
+  width: 8rem;
+}
+
+body {
+  background-color: #043249;
+  height: 400%;
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-item {
+  padding: 0 3rem 0 0;
+  font-size: 1.5rem;
+}
+
+.navigation {
+  width: 70%;
+  margin: auto;
+}
+
+.item {
+  margin: 0 0 0 auto;
+}
+
+#home {
+  background-image: url("images/compass.jpg");
+  background-repeat: no-repeat;
+  height: 640px;
+  background-size: auto 135%;
+  text-align: center;
+
+}
+.box{
+  padding: 1%;
+  width: 70%;
+  margin: 0 auto;
+
+  height: 100%;
+}
+.inner-box{
+  width: 100%;
+  background-color: white;
+  margin: 6% auto;
+  /* padding: 15% 0; */
+    border-radius: 25px;
+    box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.6), 0 8px 22px 0 rgba(0, 0, 0, 0.6);
+    height: 70%;
+}
+#about {
+  background-color: #fffefa;
+}
+
+#service {
+
+  background-color: #fffefa;
+  text-align: center;
+  padding:10rem 4rem 4rem 10rem;
+}
+
+.tagline {
+  font-family: bree serif;
+  font-size: 7rem;
+  padding-top: 8rem;
+  color: white;
+}
+
+.home-button {
+  margin-top: 5rem;
+}
+
+.home-btn {
+  margin: 0 3rem;
+}
+.about-text{
+  border-radius: 25px;
+  background: #FAEEE7;
+  margin: 3rem 0 3rem 7rem;
+
+  text-align: left;
+  font-size: 2rem;
+  font-family: Changa;
+}
+.text{
+  padding: 2rem;
+}
+.about-img{
+  text-align: center;
+}
+.img{
+  margin-top: 8%;
+
+    border-radius: 25px;
+  height: 70%;
+  width: 70%;
+}
+.fa-4x{
+  color: #FAEEE7;
+}
+.destination{
+  background-color: #FAEEE7;
+height: 45rem;
+text-align: center;
+background-image: url("images/texture.jpg");
+  /* background-repeat: no-repeat;
+  background-size: auto 60rem; */
+
+}
+.destination-tagline
+{
+  font-family: bree serif;
+  font-size: 5rem;
+  padding: 4rem 10rem;
+
+}
+.service-row{
+  padding-bottom: 10rem;
+}
+.destination-img{
+  height: 25rem;
+  width: 50rem;
+}
+.about-heading{
+  text-align: center;
+}
+.about-row{
+  padding: 6rem 0;
+}
+#contact{
+  text-align: center;
+  color: white;
+  padding: 1rem;
+}
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+}
